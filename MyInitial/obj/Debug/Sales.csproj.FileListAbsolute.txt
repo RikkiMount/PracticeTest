@@ -1,0 +1,13 @@
+C:\PracTest2\MyInitial\obj\Debug\Sales.csprojAssemblyReference.cache
+C:\PracTest2\MyInitial\obj\Debug\MyNameSpace.exe
+C:\PracTest2\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\PracTest2\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\PracTest2\MyInitial\bin\Debug\MyNameSpace.exe
+C:\PracTest2\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\PracTest2\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\PracTest2\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\PracTest2\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\PracTest2\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\PracTest2\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
+C:\PracTest2\MyInitial\obj\Debug\Sales.csproj.GenerateResource.cache
+C:\PracTest2\MyInitial\obj\Debug\Sales.csproj.CoreCompileInputs.cache
